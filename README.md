@@ -34,7 +34,7 @@ HOW TO USE IT
 package main
 
 import (
-	"github.com/advancedlogic/GoOse"
+	"github.com/gravicle/GoOse"
 )
 
 func main() {
