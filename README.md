@@ -25,7 +25,7 @@ limitations under the License.
 
 INSTALL
 =======
-go get github.com/advancedlogic/GoOse
+go get github.com/gravicle/GoOse
 
 HOW TO USE IT
 =============
